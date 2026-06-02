@@ -1,4 +1,3 @@
-# .github
 <div align="center">
 
 <img src="./assets/background.gif" width="50%" style="max-height: 280px; object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Wizardry Code Space Background" />
@@ -32,25 +31,6 @@
 
 ---
 
-</div>
-
-# 🔮 wizardry-code
-### *Transforming Complex Workflows into High-Scalability Digital Assets*
-
-[![Security: Guarded](https://img.shields.io/badge/Security-Guarded-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/wizardry-code)
-[![Tech: Scalable](https://img.shields.io/badge/Tech-Scalable-blueviolet?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/wizardry-code)
-[![Ecosystem: Future--Proof](https://img.shields.io/badge/Ecosystem-Future--Proof-ff69b4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/wizardry-code)
-
-<p align="center">
-  <a href="#-about-us">About Us</a> •
-  <a href="#%EF%B8%8F-our-magical-stack">Our Tech Stack</a> •
-  <a href="#-core-pillars">Core Pillars</a> •
-  <a href="#-the-coven-our-team">The Team</a>
-</p>
-
----
-
-</div>
 
 ## 🌌 About Us
 
