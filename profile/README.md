@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/background.gif" width="50%" style="max-height: 280px; object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Wizardry Code Space Background" />
+<img src="../assets/background.gif" width="50%" style="max-height: 280px; object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Wizardry Code Space Background" />
 
 <br/><br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="left" valign="middle" width="180">
-      <img src="./assets/WizardryCodeBrancoComLetra.svg" width="140" height="140" alt="Wizardry Code Logo" style="background-color: #0d1117; border-radius: 50%; box-shadow: 0 0 25px rgba(168, 85, 247, 0.4); border: 2px solid #a855f7;" />
+      <img src="../assets/WizardryCodeBrancoComLetra.svg" width="140" height="140" alt="Wizardry Code Logo" style="background-color: #0d1117; border-radius: 50%; box-shadow: 0 0 25px rgba(168, 85, 247, 0.4); border: 2px solid #a855f7;" />
     </td>
     <td align="left" valign="middle">
       <h1 style="border-bottom: none; margin-bottom: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">🔮 wizardry-code</h1>
