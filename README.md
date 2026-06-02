@@ -1,9 +1,7 @@
 
-# .github
-
 <div align="center">
 
-<img src="./assets/background.gif" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Wizardry Code Space Background" />
+<img src="./assets/background.gif" width="50%" style="max-height: 280px; object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="Wizardry Code Space Background" />
 
 <br/><br/>
 
